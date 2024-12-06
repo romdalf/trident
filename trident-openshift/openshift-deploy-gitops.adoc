@@ -1,0 +1,12 @@
+---
+sidebar: sidebar
+permalink: trident-openshift/openshift-deploy-gitops.html
+keywords: configure, deploy, Trident, methods, operator, tridentctl, registry, registries, openshift, gitops
+summary: You can deploy the Trident operator to install Trident on Red Hat OpenShift in a programmatic way. This process applies to installations where the container images required by Trident are not stored in a private registry using Red Hat OpenShift GitOps or ArgoCD. 
+---
+
+= Deploy Trident with OpenShift GitOps or ArgoCD
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/
+

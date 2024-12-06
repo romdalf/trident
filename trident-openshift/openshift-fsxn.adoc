@@ -1,0 +1,11 @@
+---
+sidebar: sidebar
+permalink: trident-openshift/openshift-fsxn.html
+keywords: configure, fsx, aws, Trident, methods, operator, tridentctl, registry, registries, openshift
+summary: You can connect Red Hat OpenShift on AWS with Amazon FSx For NetApp ONTAP. This process provides both NAS and SAN capabilities via Trident. 
+---
+
+= Red Hat OpenShift with Amazon FSx for NetApp ONTAP
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/

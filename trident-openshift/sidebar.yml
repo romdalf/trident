@@ -1,0 +1,22 @@
+section: trident-openshift
+title: Trident for Red Hat OpenShift
+entries:
+  - title: Prerequisites for deployment
+    url: /trident-openshift/prereqs-openshift.html
+  - title: Deploy Trident
+    url: /trident-openshift/deploy-openshift.html
+  - title: Upgrade or uninstall Trident
+    url: /trident-openshift/upgrade-uninstall-openshift.html
+  - title: Work with volumes
+    url: /trident-openshift/volumes-openshift.html
+    entries:
+    - title: Driver-specific volume options
+      url: /trident-openshift/volume-driver-options.html
+  - title: Collect logs
+    url: /trident-openshift/collect-logs-openshift.html
+  - title: Manage multiple Trident instances
+    url: /trident-openshift/multiple-instances-openshift.html
+  - title: Storage configuration options
+    url: /trident-openshift/stor-config.html
+  - title: Known issues
+    url: /trident-openshift/known-issues-openshift.html
